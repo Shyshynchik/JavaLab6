@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [23/Apr/2022:09:27:55 +0300] "GET /Lab5java/jsp HTTP/1.1" 200 3699 http-bio-9092-exec-1 80
+0:0:0:0:0:0:0:1 - - [23/Apr/2022:09:27:55 +0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9092-exec-3 0
+0:0:0:0:0:0:0:1 - - [23/Apr/2022:09:28:17 +0300] "POST /Lab5java/set-data HTTP/1.1" 200 184 http-bio-9092-exec-4 15
+0:0:0:0:0:0:0:1 - - [23/Apr/2022:09:28:26 +0300] "POST /Lab5java/set-data HTTP/1.1" 200 184 http-bio-9092-exec-5 19
+0:0:0:0:0:0:0:1 - - [23/Apr/2022:09:28:33 +0300] "POST /Lab5java/set-data HTTP/1.1" 200 211 http-bio-9092-exec-6 8
+0:0:0:0:0:0:0:1 - - [23/Apr/2022:09:28:39 +0300] "POST /Lab5java/set-data HTTP/1.1" 200 129 http-bio-9092-exec-7 3
+0:0:0:0:0:0:0:1 - - [23/Apr/2022:09:28:44 +0300] "POST /Lab5java/set-data HTTP/1.1" 200 186 http-bio-9092-exec-8 12
