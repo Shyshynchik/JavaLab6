@@ -12,6 +12,15 @@
     <url-pattern>/jsp</url-pattern>
   </servlet-mapping>
 
+  <servlet>
+    <servlet-name>NotFoundServlet</servlet-name>
+    <jsp-file>/error.jsp</jsp-file>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>NotFoundServlet</servlet-name>
+    <url-pattern>/error</url-pattern>
+  </servlet-mapping>
+
   <filter>
     <filter-name>CharFilter</filter-name>
     <filter-class>CharFilter</filter-class>

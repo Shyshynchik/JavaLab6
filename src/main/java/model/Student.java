@@ -1,8 +1,6 @@
 package model;
 
 import javax.servlet.http.HttpServletRequest;
-import java.util.HashMap;
-import java.util.Map;
 
 public class Student {
     private String fio;
@@ -15,10 +13,6 @@ public class Student {
                 + request.getParameter("patronymic");
         this.mark = request.getParameter("mark");
         this.subject = request.getParameter("subject");
-    }
-
-    public Student() {
-
     }
 
     public String getFio() {
